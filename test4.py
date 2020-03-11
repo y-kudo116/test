@@ -1,4 +1,3 @@
 import os
 
-print("test")
-print("test2")
+print("test1")
